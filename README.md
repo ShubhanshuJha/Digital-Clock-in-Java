@@ -43,15 +43,13 @@ This is a Java GUI program for a Digital Clock . This Digital Clock shows Time, 
 
 #To compile and run this Digital Clock:
 
-$ git clone https://github.com/ShubhanshuJha/Digital-Clock-in-Java.git
-
 Now, open the terminal, and give command-
 
-$ javac DigitalClock.java
+ javac DigitalClock.java
 
 Now, run the Java program-
 
-$ java DigitalClock
+ java DigitalClock
 
 
 
