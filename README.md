@@ -4,7 +4,8 @@ This is a Java GUI program for a Digital Clock. This Digital Clock shows Time, D
 
 ## Program Details:
 
-# ->Author: Shubhanshu Jha
+# ->Author:
+Shubhanshu Jha
 
 # ->Packages implemented:
 
